@@ -1,0 +1,13 @@
+# Target labels
+ ELF2UF2Build
+# Source files and their labels
+C:/Users/matth/OneDrive/Raspberry Pi/Pico/Projects/008_DAC PDM Test/build/CMakeFiles/ELF2UF2Build
+C:/Users/matth/OneDrive/Raspberry Pi/Pico/Projects/008_DAC PDM Test/build/CMakeFiles/ELF2UF2Build.rule
+C:/Users/matth/OneDrive/Raspberry Pi/Pico/Projects/008_DAC PDM Test/build/CMakeFiles/ELF2UF2Build-complete.rule
+C:/Users/matth/OneDrive/Raspberry Pi/Pico/Projects/008_DAC PDM Test/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-build.rule
+C:/Users/matth/OneDrive/Raspberry Pi/Pico/Projects/008_DAC PDM Test/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-configure.rule
+C:/Users/matth/OneDrive/Raspberry Pi/Pico/Projects/008_DAC PDM Test/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-download.rule
+C:/Users/matth/OneDrive/Raspberry Pi/Pico/Projects/008_DAC PDM Test/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-install.rule
+C:/Users/matth/OneDrive/Raspberry Pi/Pico/Projects/008_DAC PDM Test/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-mkdir.rule
+C:/Users/matth/OneDrive/Raspberry Pi/Pico/Projects/008_DAC PDM Test/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-patch.rule
+C:/Users/matth/OneDrive/Raspberry Pi/Pico/Projects/008_DAC PDM Test/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-update.rule
